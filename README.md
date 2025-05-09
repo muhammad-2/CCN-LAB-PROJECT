@@ -1,4 +1,4 @@
-# CCN-LAB-PROJECT
+# CCN-LAB-PROJECT Bu
 Bahria University Network Communication System
 This repository contains the network design and configuration for a multi-campus communication system across Bahria University's Islamabad, Lahore, and Karachi campuses. The system ensures secure, structured, and segmented communication between laboratories in each campus, utilizing DHCP, RIP routing, and Access Control Lists (ACLs) for network management and security.
 
